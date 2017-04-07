@@ -4,6 +4,8 @@ body{
 .caption-progression{
 	top: 240px;
 	height: auto;
+	display: flex;
+	align-items: center;
 }
 
 .attachment-progression-episode-page-title{
@@ -14,7 +16,23 @@ body{
 	padding-top: 0 !important;
 }
 
-.caption-progression{
-	display: flex;
-	align-items: center;
+@media (max-width: 600px) {
+
+	.caption-progression{
+	  	top: auto !important;
+	}
+
+	.mobile-menu-icon-progression{
+		position: absolute;
+		top: 12px;
+		right: 12px;
+	}
+
+	header#masthead-progression #logo img{
+		margin: 0;
+		width: 100px;
+		height: 100px;
+	}
+
+
 }
