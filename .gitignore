@@ -4,5 +4,6 @@ wp-includes/
 wp-*.php
 !wp-config.php
 index.php
-gdconfig.phpi
+gdconfig.php
 .DS_Store
+wp-config.php
