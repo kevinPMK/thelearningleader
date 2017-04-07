@@ -10,6 +10,9 @@
 .flex-active-slide {
   padding-top: 0 !important; }
 
+.bread-crumb-container {
+  margin-bottom: 12px !important; }
+
 #soundbyte-page-title {
   padding-top: 237px;
   padding-bottom: 0px;
@@ -27,12 +30,16 @@
   .mobile-menu-icon-progression {
     position: absolute;
     top: 25px;
-    right: 25px;
+    right: 0px;
     margin: 0; }
 
   header#masthead-progression #logo img {
     margin: 0;
     width: 100px;
-    height: 100px; } }
+    height: 100px; }
+
+  #soundbyte-page-title {
+    padding: 0px;
+    min-height: auto; } }
 
 /*# sourceMappingURL=custom.css.map */
