@@ -5,4 +5,3 @@ wp-*.php
 !wp-config.php
 index.php
 gdconfig.php
-wp-config.php
