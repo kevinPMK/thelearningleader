@@ -10,7 +10,7 @@
 .flex-active-slide {
   padding-top: 0 !important; }
 
-@media (max-width: 600px) {
+@media (max-width: 960px) {
   .caption-progression {
     top: auto !important; }
 
