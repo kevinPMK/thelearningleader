@@ -13,6 +13,8 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 	<?php wp_head(); ?>
+	<link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/custom.css">
+
 </head>
 <body <?php body_class(); ?>>
 	<?php include( get_template_directory() . '/header/page-loader.php'); ?>
