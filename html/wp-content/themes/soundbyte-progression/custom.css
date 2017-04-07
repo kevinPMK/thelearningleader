@@ -10,7 +10,7 @@
 .flex-active-slide {
   padding-top: 0 !important; }
 
-.bread-crumb-container {
+#bread-crumb-container {
   margin-bottom: 12px !important; }
 
 #soundbyte-page-title {
@@ -40,6 +40,6 @@
 
   #soundbyte-page-title {
     padding: 0px;
-    min-height: auto; } }
+    min-height: 0px; } }
 
 /*# sourceMappingURL=custom.css.map */
