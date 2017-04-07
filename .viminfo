@@ -22,13 +22,15 @@
 # Registers:
 
 # File marks:
-'0  7  11  ~/.gitignore
-'1  1  0  ~/html/.gitconfig
-'2  7  51  ~/.git/config
-'3  7  11  ~/.gitignore
+'0  8  12  ~/.gitignore
+'1  7  11  ~/.gitignore
+'2  1  0  ~/html/.gitconfig
+'3  7  51  ~/.git/config
+'4  7  11  ~/.gitignore
 
 # Jumplist (newest first):
--'  7  11  ~/.gitignore
+-'  8  12  ~/.gitignore
+-'  7  0  ~/.gitignore
 -'  1  0  ~/html/.gitconfig
 -'  7  51  ~/.git/config
 -'  1  0  ~/.git/config
@@ -40,7 +42,25 @@
 -'  7  51  ~/.git/config
 -'  1  0  ~/.git/config
 -'  1  0  ~/html/.gitconfig
--'  8  12  ~/.gitignore
+-'  9  12  ~/.gitignore
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  1  0  ~/html/.gitconfig
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
+-'  1  0  ~/html/.gitconfig
 -'  7  51  ~/.git/config
 -'  1  0  ~/.git/config
 -'  7  51  ~/.git/config
@@ -53,14 +73,15 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	7	11
-	^	7	12
-	.	8	0
+	"	8	12
+	^	8	13
+	.	8	12
 	+	7	0
 	+	1	3
 	+	7	11
 	+	7	12
-	+	8	0
+	+	9	0
+	+	8	12
 
 > ~/html/.gitconfig
 	"	1	0
