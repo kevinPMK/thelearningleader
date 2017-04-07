@@ -16,6 +16,19 @@ body{
 	padding-top: 0 !important;
 }
 
+#soundbyte-page-title{
+	padding-top: 237px;
+	padding-bottom: 0px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+	min-height: 600px;
+	>.width-container-progression{
+		padding: 64px 0;
+	}
+}
+
+
 @media (max-width: 960px) {
 
 	.caption-progression{
