@@ -1,0 +1,378 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Progression Elements\n"
+"POT-Creation-Date: 2015-12-08 09:59-0800\n"
+"PO-Revision-Date: 2015-12-08 09:58-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pro-custom.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: elements/blog-shortcode.php:118
+msgid "Pro Blog"
+msgstr ""
+
+#: elements/blog-shortcode.php:119
+msgid "List of posts"
+msgstr ""
+
+#: elements/blog-shortcode.php:123 elements/event-shortcode.php:120
+#: elements/map-shortcode.php:74 elements/team-shortcode.php:368
+msgid "Pro Elements"
+msgstr ""
+
+#: elements/blog-shortcode.php:132
+msgid "Post Columns"
+msgstr ""
+
+#: elements/blog-shortcode.php:149
+msgid "Post Count"
+msgstr ""
+
+#: elements/blog-shortcode.php:158
+msgid "Narrow by Category"
+msgstr ""
+
+#: elements/blog-shortcode.php:159
+msgid ""
+"Enter Category slugs to display a specific category. Add-in multiple slugs "
+"seperated by a comma to use multiple categories. (Leave blank to pull in all "
+"posts)."
+msgstr ""
+
+#: elements/blog-shortcode.php:169 elements/event-shortcode.php:166
+msgid "Display Pagination?"
+msgstr ""
+
+#: elements/blog-shortcode.php:179
+msgid "Heading Font Size"
+msgstr ""
+
+#: elements/blog-shortcode.php:180
+msgid "Over-rides the default Heading Font Size. Example: 18px"
+msgstr ""
+
+#: elements/blog-shortcode.php:183 elements/blog-shortcode.php:193
+#: elements/blog-shortcode.php:203 elements/team-shortcode.php:1102
+#: elements/team-shortcode.php:1112 elements/team-shortcode.php:1123
+#: elements/team-shortcode.php:1133 elements/team-shortcode.php:1141
+#: elements/team-shortcode.php:1151 elements/team-shortcode.php:1163
+#: elements/team-shortcode.php:1174
+msgid "Design options"
+msgstr ""
+
+#: elements/blog-shortcode.php:189
+msgid "Meta Font Size"
+msgstr ""
+
+#: elements/blog-shortcode.php:190
+msgid "Over-rides the default Meta Font Size. Example: 12px"
+msgstr ""
+
+#: elements/blog-shortcode.php:199
+msgid "Paragraph Font Size"
+msgstr ""
+
+#: elements/blog-shortcode.php:200
+msgid "Over-rides the default Paragraph Font Size. Example: 11px"
+msgstr ""
+
+#: elements/event-shortcode.php:115
+msgid "Pro Events"
+msgstr ""
+
+#: elements/event-shortcode.php:116
+msgid "List of events"
+msgstr ""
+
+#: elements/event-shortcode.php:129
+msgid "Event Columns"
+msgstr ""
+
+#: elements/event-shortcode.php:146
+msgid "Event Post Count"
+msgstr ""
+
+#: elements/event-shortcode.php:155
+msgid "Narrow by Event Category"
+msgstr ""
+
+#: elements/event-shortcode.php:156
+msgid ""
+"Enter Event Category slugs to display a specific event category. Add-in "
+"multiple slugs seperated by a comma to use multiple categories. (Leave blank "
+"to pull in all event categories)."
+msgstr ""
+
+#: elements/map-shortcode.php:69
+msgid "Pro Map"
+msgstr ""
+
+#: elements/map-shortcode.php:70
+msgid "Google Maps Location"
+msgstr ""
+
+#: elements/map-shortcode.php:82
+msgid "Map Address"
+msgstr ""
+
+#: elements/map-shortcode.php:84
+msgid "1600 Holloway Ave, San Francisco, CA 94132"
+msgstr ""
+
+#: elements/map-shortcode.php:90
+msgid "Map Pin Heading"
+msgstr ""
+
+#: elements/map-shortcode.php:98
+msgid "Map Pin Text"
+msgstr ""
+
+#: elements/map-shortcode.php:105
+msgid "Map Height"
+msgstr ""
+
+#: elements/map-shortcode.php:107
+msgid "500px"
+msgstr ""
+
+#: elements/map-shortcode.php:112
+msgid "Map Zoom"
+msgstr ""
+
+#: elements/map-shortcode.php:114
+msgid "12"
+msgstr ""
+
+#: elements/map-shortcode.php:119
+msgid "Custom Map Pin"
+msgstr ""
+
+#: elements/map-shortcode.php:126
+msgid "Open Map Marker Automatically"
+msgstr ""
+
+#: elements/map-shortcode.php:133
+msgid "Map Type"
+msgstr ""
+
+#: elements/team-shortcode.php:363
+msgid "Pro Team"
+msgstr ""
+
+#: elements/team-shortcode.php:364
+msgid "Add Team Members"
+msgstr ""
+
+#: elements/team-shortcode.php:375
+msgid "Photograph"
+msgstr ""
+
+#: elements/team-shortcode.php:383
+msgid "Name"
+msgstr ""
+
+#: elements/team-shortcode.php:385
+msgid "John Doe"
+msgstr ""
+
+#: elements/team-shortcode.php:391
+msgid "Job Title"
+msgstr ""
+
+#: elements/team-shortcode.php:393
+msgid "Chief Executive"
+msgstr ""
+
+#: elements/team-shortcode.php:399
+msgid "Description"
+msgstr ""
+
+#: elements/team-shortcode.php:408
+msgid "Add Icon?"
+msgstr ""
+
+#: elements/team-shortcode.php:415 elements/team-shortcode.php:529
+#: elements/team-shortcode.php:644 elements/team-shortcode.php:761
+#: elements/team-shortcode.php:876 elements/team-shortcode.php:990
+msgid "Icon Link"
+msgstr ""
+
+#: elements/team-shortcode.php:426 elements/team-shortcode.php:540
+#: elements/team-shortcode.php:655 elements/team-shortcode.php:772
+#: elements/team-shortcode.php:887 elements/team-shortcode.php:1001
+msgid "Icon library"
+msgstr ""
+
+#: elements/team-shortcode.php:428 elements/team-shortcode.php:542
+#: elements/team-shortcode.php:657 elements/team-shortcode.php:774
+#: elements/team-shortcode.php:889 elements/team-shortcode.php:1003
+msgid "Font Awesome"
+msgstr ""
+
+#: elements/team-shortcode.php:429 elements/team-shortcode.php:543
+#: elements/team-shortcode.php:658 elements/team-shortcode.php:775
+#: elements/team-shortcode.php:890 elements/team-shortcode.php:1004
+msgid "Open Iconic"
+msgstr ""
+
+#: elements/team-shortcode.php:430 elements/team-shortcode.php:544
+#: elements/team-shortcode.php:659 elements/team-shortcode.php:776
+#: elements/team-shortcode.php:891 elements/team-shortcode.php:1005
+msgid "Typicons"
+msgstr ""
+
+#: elements/team-shortcode.php:431 elements/team-shortcode.php:545
+#: elements/team-shortcode.php:660 elements/team-shortcode.php:777
+#: elements/team-shortcode.php:892 elements/team-shortcode.php:1006
+msgid "Entypo"
+msgstr ""
+
+#: elements/team-shortcode.php:432 elements/team-shortcode.php:546
+#: elements/team-shortcode.php:661 elements/team-shortcode.php:778
+#: elements/team-shortcode.php:893 elements/team-shortcode.php:1007
+msgid "Linecons"
+msgstr ""
+
+#: elements/team-shortcode.php:439 elements/team-shortcode.php:553
+#: elements/team-shortcode.php:668 elements/team-shortcode.php:785
+#: elements/team-shortcode.php:900 elements/team-shortcode.php:1014
+msgid "Select icon library."
+msgstr ""
+
+#: elements/team-shortcode.php:443 elements/team-shortcode.php:458
+#: elements/team-shortcode.php:473 elements/team-shortcode.php:488
+#: elements/team-shortcode.php:502 elements/team-shortcode.php:557
+#: elements/team-shortcode.php:572 elements/team-shortcode.php:587
+#: elements/team-shortcode.php:602 elements/team-shortcode.php:616
+#: elements/team-shortcode.php:672 elements/team-shortcode.php:687
+#: elements/team-shortcode.php:702 elements/team-shortcode.php:717
+#: elements/team-shortcode.php:731 elements/team-shortcode.php:789
+#: elements/team-shortcode.php:804 elements/team-shortcode.php:819
+#: elements/team-shortcode.php:834 elements/team-shortcode.php:848
+#: elements/team-shortcode.php:904 elements/team-shortcode.php:919
+#: elements/team-shortcode.php:934 elements/team-shortcode.php:949
+#: elements/team-shortcode.php:963 elements/team-shortcode.php:1018
+#: elements/team-shortcode.php:1033 elements/team-shortcode.php:1048
+#: elements/team-shortcode.php:1063 elements/team-shortcode.php:1077
+msgid "Icon"
+msgstr ""
+
+#: elements/team-shortcode.php:454 elements/team-shortcode.php:469
+#: elements/team-shortcode.php:484 elements/team-shortcode.php:513
+#: elements/team-shortcode.php:568 elements/team-shortcode.php:583
+#: elements/team-shortcode.php:598 elements/team-shortcode.php:627
+#: elements/team-shortcode.php:683 elements/team-shortcode.php:698
+#: elements/team-shortcode.php:713 elements/team-shortcode.php:742
+#: elements/team-shortcode.php:800 elements/team-shortcode.php:815
+#: elements/team-shortcode.php:830 elements/team-shortcode.php:859
+#: elements/team-shortcode.php:915 elements/team-shortcode.php:930
+#: elements/team-shortcode.php:945 elements/team-shortcode.php:974
+#: elements/team-shortcode.php:1029 elements/team-shortcode.php:1044
+#: elements/team-shortcode.php:1059 elements/team-shortcode.php:1088
+msgid "Select icon from library."
+msgstr ""
+
+#: elements/team-shortcode.php:521
+msgid "Add Second Icon?"
+msgstr ""
+
+#: elements/team-shortcode.php:635
+msgid "Add Third Icon?"
+msgstr ""
+
+#: elements/team-shortcode.php:752
+msgid "Add Fourth Icon?"
+msgstr ""
+
+#: elements/team-shortcode.php:866
+msgid "Add Fifth Icon?"
+msgstr ""
+
+#: elements/team-shortcode.php:981
+msgid "Add Sixth Icon?"
+msgstr ""
+
+#: elements/team-shortcode.php:1100
+msgid "Name Font Size"
+msgstr ""
+
+#: elements/team-shortcode.php:1109
+msgid "Name Font Color"
+msgstr ""
+
+#: elements/team-shortcode.php:1121
+msgid "Job Title Font Size"
+msgstr ""
+
+#: elements/team-shortcode.php:1130
+msgid "Job Title Font Color"
+msgstr ""
+
+#: elements/team-shortcode.php:1139
+msgid "Description Font Size"
+msgstr ""
+
+#: elements/team-shortcode.php:1148
+msgid "Description Font Color"
+msgstr ""
+
+#: elements/team-shortcode.php:1160
+msgid "Social Media Background Color"
+msgstr ""
+
+#: elements/team-shortcode.php:1171
+msgid "Social Media Icon Color"
+msgstr ""
+
+#: templates/custom-templates.php:12
+msgid " The Course"
+msgstr ""
+
+#: templates/custom-templates.php:34
+msgid " Country Club"
+msgstr ""
+
+#: templates/custom-templates.php:56
+msgid " Membership"
+msgstr ""
+
+#: templates/custom-templates.php:79
+msgid " Contact Page"
+msgstr ""
+
+#: templates/custom-templates.php:94
+msgid " Homepage Template"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Progression Elements"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://http://progressionstudios.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin registers custom elements for Progression Studios"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Progression Studios"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://progressionstudios.com/"
+msgstr ""
