@@ -19,13 +19,14 @@ body{
 @media (max-width: 960px) {
 
 	.caption-progression{
-	  	top: auto !important;
+	  	top: 0 !important;
 	}
 
 	.mobile-menu-icon-progression{
 		position: absolute;
-		top: 12px;
-		right: 12px;
+		top: 25px;
+		right: 25px;
+		margin: 0;
 	}
 
 	header#masthead-progression #logo img{
