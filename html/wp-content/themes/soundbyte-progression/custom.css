@@ -23,6 +23,15 @@
   #soundbyte-page-title > .width-container-progression {
     padding: 64px 0; }
 
+h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-header-progression.menu-resized-pro #logo img {
+  transition-duration: 0.15s; }
+
+.flex-direction-nav {
+  margin-top: 30px !important; }
+
+.copyright-text {
+  padding-top: 0px !important; }
+
 @media (max-width: 960px) {
   .caption-progression {
     top: 0 !important; }
