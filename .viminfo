@@ -21,29 +21,32 @@
 # Registers:
 
 # File marks:
-'0  7  30  ~/.git/config
-'1  7  11  ~/.gitignore
+'0  8  12  ~/.gitignore
+'1  7  51  ~/.git/config
+'2  7  11  ~/.gitignore
 
 # Jumplist (newest first):
--'  7  30  ~/.git/config
+-'  8  12  ~/.gitignore
+-'  7  0  ~/.gitignore
+-'  7  51  ~/.git/config
 -'  1  0  ~/.git/config
--'  7  11  ~/.gitignore
 -'  1  0  ~/.gitignore
--'  7  11  ~/.gitignore
--'  1  0  ~/.gitignore
+-'  7  51  ~/.git/config
+-'  1  0  ~/.git/config
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/config
-	"	7	30
-	^	7	31
-	.	7	31
-	+	7	31
-
 > ~/.gitignore
-	"	7	11
-	^	7	12
-	.	7	12
+	"	8	12
+	^	8	13
+	.	8	12
 	+	7	0
 	+	1	3
-	+	7	12
+	+	7	11
+	+	8	12
+
+> ~/.git/config
+	"	7	51
+	^	7	52
+	.	7	7
+	+	7	7
