@@ -32,6 +32,17 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 .copyright-text {
   padding-top: 0px !important; }
 
+#bread-crumb-container {
+  display: none; }
+
+#soundbyte-page-title > .width-container-progression {
+  padding: 0px; }
+
+.single .soundbyte-divider-progression {
+  display: none; }
+.single .soundbyte-progression-meta {
+  margin-top: 0px; }
+
 @media (max-width: 960px) {
   .caption-progression {
     top: 0 !important; }
