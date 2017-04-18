@@ -46,27 +46,32 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 #soundbyte-page-title > .width-container-progression {
   padding: 0px; }
 
-.single #soundbyte-page-title .soundbyte-divider-progression {
-  display: none; }
-.single #soundbyte-page-title .soundbyte-progression-meta {
-  margin-top: 0px; }
-.single #soundbyte-page-title .soundbyte-podcast-progression-meta {
-  margin-top: 0px !important;
-  margin-bottom: 28px !important; }
-  .single #soundbyte-page-title .soundbyte-podcast-progression-meta .alignright {
-    float: left;
-    margin-left: 24px !important;
-    display: inline-block;
+.single #soundbyte-page-title {
+  height: 80vh; }
+  .single #soundbyte-page-title .soundbyte-divider-progression {
+    display: none; }
+  .single #soundbyte-page-title .soundbyte-progression-meta {
+    margin-top: 0px; }
+  .single #soundbyte-page-title .soundbyte-podcast-progression-meta {
+    margin-top: 0px !important;
+    margin-bottom: 28px !important; }
+    .single #soundbyte-page-title .soundbyte-podcast-progression-meta .alignright {
+      float: left;
+      margin-left: 24px !important;
+      display: inline-block;
+      opacity: 0.8;
+      font-weight: 300; }
+  .single #soundbyte-page-title .soundbyte-podcast-title-progression {
+    margin-top: 120px;
+    margin-bottom: 120px; }
+  .single #soundbyte-page-title .soundbyte-podcast-date-progression {
     opacity: 0.8;
     font-weight: 300; }
-.single #soundbyte-page-title .soundbyte-podcast-title-progression {
-  margin-top: 120px;
-  margin-bottom: 120px; }
-.single #soundbyte-page-title .soundbyte-podcast-date-progression {
-  opacity: 0.8;
-  font-weight: 300; }
 
 @media (max-width: 960px) {
+  #soundbyte-page-title {
+    height: auto; }
+
   .caption-progression {
     top: 0 !important; }
 

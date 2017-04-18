@@ -73,6 +73,7 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 
 .single {
 	#soundbyte-page-title{
+		height: 80vh;
 		.soundbyte-divider-progression{
 			display: none;
 		}
@@ -103,6 +104,10 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 
 
 @media (max-width: 960px) {
+
+	#soundbyte-page-title{
+		height: auto;
+	}
 
 	.caption-progression{
 	  	top: 0 !important;
