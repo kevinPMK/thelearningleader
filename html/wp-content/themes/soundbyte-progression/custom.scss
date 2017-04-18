@@ -59,7 +59,21 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 	}
 	.soundbyte-progression-meta{
 		margin-top: 0px;
-	}	
+	}
+	.soundbyte-podcast-progression-meta{
+		margin-top: 0px;
+		margin-bottom: 28px;
+		.alignright{
+			float: none;
+			margin-left: 24px;
+			display: inline-block;
+			opacity: 0.8;
+		}
+	}
+	.soundbyte-podcast-title-progression{
+		margin-top: 120px;
+		margin-bottom: 120px;
+	}
 }
 
 
