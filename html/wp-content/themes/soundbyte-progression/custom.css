@@ -69,7 +69,7 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
     font-weight: 300; }
 
 @media (max-width: 960px) {
-  #soundbyte-page-title {
+  .single #soundbyte-page-title {
     height: auto; }
 
   .caption-progression {

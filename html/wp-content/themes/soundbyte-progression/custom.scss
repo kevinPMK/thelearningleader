@@ -105,9 +105,12 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 
 @media (max-width: 960px) {
 
-	#soundbyte-page-title{
-		height: auto;
+	.single{
+		#soundbyte-page-title{
+			height: auto;
+		}
 	}
+
 
 	.caption-progression{
 	  	top: 0 !important;
