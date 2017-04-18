@@ -7,6 +7,9 @@
 #homepage-slider{
 	.grid2column-progression{
 		display: none !important;
+		&.lastcolumn-progression{
+			display: block !important;
+		}
 	}
 }
 
@@ -80,10 +83,11 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 			margin-top: 0px !important;
 			margin-bottom: 28px !important;
 			.alignright{
-				float: none;
+				float: left;
 				margin-left: 24px !important;
 				display: inline-block;
 				opacity: 0.8;
+				font-weight: 300;
 			}
 		}
 		.soundbyte-podcast-title-progression{
@@ -92,6 +96,7 @@ h1#logo img, h1#logo a, nav#site-navigation a, a.cart-icon-pro, body #sticky-hea
 		}
 		.soundbyte-podcast-date-progression{
 			opacity: 0.8;
+			font-weight: 300;
 		}
 	}
 }
